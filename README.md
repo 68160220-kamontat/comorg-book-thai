@@ -18,7 +18,7 @@
 | 6.3 Solid State Drives (SSD) | นาย นพีภัทร์ โพธิ์ทอง 68160249 | [คลิกอ่าน 6.3 Solid State Drives (SSD)](chapter6/chapter-6.3.md) |
 | 6.4 Optical Memory | นาย นพีภัทร์ โพธิ์ทอง 68160249 | [คลิกอ่าน 6.4 Optical Memory](chapter6/chapter-6.4.md) |
 | 6.5 Magnetic Tape | นาย นพีภัทร์ โพธิ์ทอง 68160249 | [คลิกอ่าน 6.5 Magnetic Tape](chapter6/chapter-6.5.md) |
-| 6.6 Key Terms / Review Questions / Problems | นาย นพีภัทร์ โพธิ์ทอง 68160249 | [คลิกอ่าน 6.6 Key Terms / Review Questions / Problems](chapter6/chapter-6.6.md) |
+| 6.6 Key Terms | นาย นพีภัทร์ โพธิ์ทอง 68160249 | [คลิกอ่าน 6.6 Key Terms](chapter6/chapter-6.6.md) |
 
 ### บทที่ 7: Input/Output
 

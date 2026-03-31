@@ -30,3 +30,6 @@
 | 7.4 Interrupt-Driven I/O | นายกมนทัต แสงนาคฤทธิ์ 68160220 | [คลิกอ่าน 7.4 Interrupt-Driven I/O](chapter7/chapter-7.4.md) |
 | 7.5 Direct Memory Access | นายศุภศิษฏ์ ไพบูลย์ธนโชค 68160273 | [คลิกอ่าน 7.5 Direct Memory Access](chapter7/chapter-7.5.md) |
 | 7.6 Direct Cache Access | นายศุภศิษฏ์ ไพบูลย์ธนโชค 68160273 | [คลิกอ่าน 7.6 Direct Cache Access](chapter7/chapter-7.6.md) |
+| 7.7 I/O Channels and Processors | นายกมนทัต แสงนาคฤทธิ์ 68160220 | [คลิกอ่าน 7.7 I/O Channels and Processors](chapter7/chapter-7.7.md) |
+| 7.8 External Interconnection Standards | นายกมนทัต แสงนาคฤทธิ์ 68160220 | [คลิกอ่าน 7.8 External Interconnection Standards](chapter7/chapter-7.8.md) |
+| 7.9 IBM zEnterprise EC12 I/O Structure | นายกมนทัต แสงนาคฤทธิ์ 68160220 | [คลิกอ่าน 7.9 IBM zEnterprise EC12 I/O Structure](chapter7/chapter-7.9.md) |

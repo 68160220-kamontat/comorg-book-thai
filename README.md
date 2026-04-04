@@ -5,7 +5,7 @@
 - นายกมนทัต แสงนาคฤทธิ์ 68160220
 - นายศุภศิษฏ์ ไพบูลย์ธนโชค 68160273
 - นายนพีภัทร์ โพธิ์ทอง 68160249
-- 
+- นายธาวิน รักสุทธี 68160245
 
 ---
 ### บทที่ 6: External Memory
@@ -33,3 +33,14 @@
 | 7.7 I/O Channels and Processors | นายกมนทัต แสงนาคฤทธิ์ 68160220 | [คลิกอ่าน 7.7 I/O Channels and Processors](chapter7/chapter-7.7.md) |
 | 7.8 External Interconnection Standards | นายกมนทัต แสงนาคฤทธิ์ 68160220 | [คลิกอ่าน 7.8 External Interconnection Standards](chapter7/chapter-7.8.md) |
 | 7.9 IBM zEnterprise EC12 I/O Structure | นายกมนทัต แสงนาคฤทธิ์ 68160220 | [คลิกอ่าน 7.9 IBM zEnterprise EC12 I/O Structure](chapter7/chapter-7.9.md) |
+
+## บทที่ 8: Operating System Support
+
+| หัวข้อ | ผู้รับผิดชอบ | ลิงก์ไฟล์ |
+|--------|--------------|-----------|
+| 8.1 Operating System Overview | นายธาวิน รักสุทธี 68160245 | [คลิกอ่าน 8.1 Overview](chapter8/chapter-8.1.md) |
+| 8.2 Scheduling | นายธาวิน รักสุทธี 68160245 | [คลิกอ่าน 8.2 Scheduling](chapter8/chapter-8.2.md) |
+| 8.3 Memory Management | นายธาวิน รักสุทธี 68160245 | [คลิกอ่าน 8.3 Memory Management](chapter8/chapter-8.3.md) |
+| 8.4 Intel x86 Memory Management | นายธาวิน รักสุทธี 68160245 | [คลิกอ่าน 8.4 x86 Memory](chapter8/chapter-8.4.md) |
+| 8.5 ARM Memory Management | นายธาวิน รักสุทธี 68160245 | [คลิกอ่าน 8.5 ARM Memory](chapter8/chapter-8.5.md) |
+| 8.6 Key Terms & Review Questions | นายธาวิน รักสุทธี 68160245 | [คลิกอ่าน 8.6 Review](chapter8/chapter-8.6.md) |
